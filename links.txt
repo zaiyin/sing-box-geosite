@@ -15,3 +15,4 @@ https://raw.githubusercontent.com/malikshi/v2ray-rules-dat/rule/urltest.txt
 https://raw.githubusercontent.com/malikshi/v2ray-rules-dat/rule/rule_speedtest.txt
 https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
 https://raw.githubusercontent.com/malikshi/v2ray-rules-dat/rule/rule_bank-id.txt
+https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
