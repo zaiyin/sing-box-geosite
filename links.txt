@@ -3,7 +3,6 @@ https://big.oisd.nl/dnsmasq
 https://small.oisd.nl/dnsmasq
 https://nsfw.oisd.nl/dnsmasq
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
-https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 https://raw.githubusercontent.com/malikshi/v2ray-rules-dat/rule/rule_ads.txt
 https://raw.githubusercontent.com/malikshi/v2ray-rules-dat/rule/rule_gaming.txt
 https://raw.githubusercontent.com/malikshi/v2ray-rules-dat/rule/rule_indo.txt
