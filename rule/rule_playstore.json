@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "full:play-fe.googleapis.com",
+        "full:play-lh.googleusercontent.com",
+        "full:play.google.com",
+        "full:play.googleapis.com"
+      ]
+    }
+  ],
+  "version": 1
+}

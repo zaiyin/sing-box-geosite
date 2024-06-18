@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "include:ookla-speedtest"
+      ]
+    }
+  ],
+  "version": 1
+}

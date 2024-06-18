@@ -1,0 +1,33 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "full:api.v2fly.org",
+        "full:bing.com",
+        "full:captive.apple.com",
+        "full:conn1.oppomobile.com",
+        "full:conn2.oppomobile.com",
+        "full:connect.rom.miui.com",
+        "full:connectivity-check.ubuntu.com",
+        "full:connectivitycheck.android.com",
+        "full:connectivitycheck.gstatic.com",
+        "full:cp.cloudflare.com",
+        "full:detectportal.firefox.com",
+        "full:edge.microsoft.com",
+        "full:elementary.io",
+        "full:g.cn",
+        "full:hi.bonds.id",
+        "full:id-auth.bypass.id",
+        "full:keep-alv.google.com",
+        "full:noisyfox.io",
+        "full:qualcomm.com",
+        "full:quasar.yandex.net",
+        "full:wifi.vivo.com.cn",
+        "full:www.google.com",
+        "full:www.gstatic.com",
+        "full:www.msftconnecttest.com"
+      ]
+    }
+  ],
+  "version": 1
+}
