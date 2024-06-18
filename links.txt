@@ -1,6 +1,4 @@
 https://big.oisd.nl/dnsmasq
-https://small.oisd.nl/dnsmasq
-https://nsfw.oisd.nl/dnsmasq
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
 https://raw.githubusercontent.com/malikshi/v2ray-rules-dat/rule/rule_ads.txt
 https://raw.githubusercontent.com/malikshi/v2ray-rules-dat/rule/rule_gaming.txt
@@ -15,4 +13,3 @@ https://raw.githubusercontent.com/malikshi/v2ray-rules-dat/rule/urltest.txt
 https://raw.githubusercontent.com/malikshi/v2ray-rules-dat/rule/rule_speedtest.txt
 https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
 https://raw.githubusercontent.com/malikshi/v2ray-rules-dat/rule/rule_bank-id.txt
-https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
