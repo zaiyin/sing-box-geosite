@@ -1,5 +1,4 @@
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-https://someonewhocares.org/hosts/hosts
 https://big.oisd.nl/dnsmasq
 https://small.oisd.nl/dnsmasq
 https://nsfw.oisd.nl/dnsmasq
