@@ -1,10 +1,5 @@
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://someonewhocares.org/hosts/hosts
-https://raw.githubusercontent.com/Loyalsoldier/domain-list-custom/release/cn.txt
-https://raw.githubusercontent.com/Loyalsoldier/domain-list-custom/release/geolocation-!cn.txt
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
 https://big.oisd.nl/dnsmasq
 https://small.oisd.nl/dnsmasq
 https://nsfw.oisd.nl/dnsmasq
