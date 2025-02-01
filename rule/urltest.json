@@ -11,6 +11,7 @@
         "full:connectivity-check.ubuntu.com",
         "full:connectivitycheck.android.com",
         "full:connectivitycheck.gstatic.com",
+        "full:connectivitycheck.unisoc.com",
         "full:cp.cloudflare.com",
         "full:detectportal.firefox.com",
         "full:edge.microsoft.com",
@@ -20,12 +21,15 @@
         "full:id-auth.bypass.id",
         "full:keep-alv.google.com",
         "full:noisyfox.io",
+        "full:play.googleapis.com",
         "full:qualcomm.com",
         "full:quasar.yandex.net",
         "full:wifi.vivo.com.cn",
         "full:www.google.com",
         "full:www.gstatic.com",
-        "full:www.msftconnecttest.com"
+        "full:www.msftconnecttest.com",
+        "keyword:connectivity-check",
+        "keyword:connectivitycheck"
       ]
     }
   ],
