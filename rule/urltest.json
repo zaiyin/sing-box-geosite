@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "full:204.ecloud.global",
         "full:api.v2fly.org",
         "full:bing.com",
         "full:captive.apple.com",
@@ -14,6 +15,7 @@
         "full:connectivitycheck.unisoc.com",
         "full:cp.cloudflare.com",
         "full:detectportal.firefox.com",
+        "full:e.foundation",
         "full:edge.microsoft.com",
         "full:elementary.io",
         "full:g.cn",
